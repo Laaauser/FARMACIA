@@ -17,21 +17,3 @@ Projeto Java que simula o controle de estoque e vendas de uma farmácia, com fun
 
 ---
 
-## 📋 Pré-requisitos
-
-Antes de rodar o projeto, você precisa ter instalado:
-
-- ☑️ Java JDK 17 ou superior  
-- ☑️ IDE (IntelliJ IDEA, Eclipse, VSCode)  
-- ☑️ Maven ou Gradle (opcional)
-
----
-
-## 🏃 Como executar
-
-### 💻 Pelo terminal
-```bash
-git clone https://github.com/Laaauser/FARMACIA.git
-cd FARMACIA/Main
-javac Main.java
-java Main
