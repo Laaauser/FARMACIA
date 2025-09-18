@@ -29,4 +29,3 @@ jobs:
       run: |
         cd Main
         java Main
-
