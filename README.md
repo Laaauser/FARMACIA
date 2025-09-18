@@ -2,7 +2,6 @@
 
 Projeto Java que simula o controle de estoque e vendas de uma farmácia, com funcionalidades de cadastro de produtos, controle de estoque e histórico de vendas.
 
-![Build Status](https://github.com/Laaauser/FARMACIA/actions/workflows/build.yml/badge.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Laaauser/FARMACIA)
 ![GitHub language count](https://img.shields.io/github/languages/count/Laaauser/FARMACIA)
 ![GitHub forks](https://img.shields.io/github/forks/Laaauser/FARMACIA?style=social)
